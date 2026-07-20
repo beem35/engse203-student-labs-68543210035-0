@@ -1,8 +1,14 @@
 # Week 02 Evidence
 
+![หน้าจอสถานะเริ่มต้นและขณะกำลังโหลดข้อมูล (Initial / Loading State)](image-2.png)
+
 ![หน้าจอการแสดงผลเมื่อโหลดข้อมูลสำเร็จ (Success State)](../source/img/image-1.png)
 
 ![หน้าจอการแสดงผลเมื่อเกิดข้อผิดพลาดในการโหลดข้อมูล (Error State)](../source/img/image.png)
+
+![หน้าจอแสดงผลลัพธ์จากการค้นหาและกรองข้อมูล (Filter / Search State)](image-3.png)
+
+![หน้าจอการแสดงผลบนโทรศัพท์มือถือ (Mobile Responsive State)](image-4.png)
 
 ![ผลการรันคำสั่ง npm run check ผ่านสำเร็จ](image.png)
 
