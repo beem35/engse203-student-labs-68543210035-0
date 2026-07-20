@@ -3,10 +3,9 @@
 | รายการ | ข้อมูล |
 |---|---|
 | รายวิชา | ENGSE203 การเขียนโปรแกรมสำหรับวิศวกรซอฟต์แวร์ |
-| รหัสนักศึกษา | STUDENT-ID |
-| ชื่อ-นามสกุล | ชื่อ-นามสกุล |
-| Section | SEC-X |
-| GitHub Username | GITHUB-USERNAME |
-| Repository | `engse203-student-labs-STUDENT-ID` |
-
-> ไฟล์นี้จะถูกปรับข้อมูลเมื่อรัน `npm run setup`
+| รหัสนักศึกษา | 68543210035 |
+| ชื่อ-นามสกุล | ปัณณวัฒน์ สิทธิตัน |
+| Section | SEC1 |
+| GitHub Username | beem35 |
+| Repository | `engse203-student-labs-68543210035` |
+| Pages Hub | https://beem35.github.io/engse203-student-labs-68543210035/ |
